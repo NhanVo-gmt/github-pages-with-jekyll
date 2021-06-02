@@ -1,6 +1,7 @@
 title: Game development
 author: Shinomiya
 email: waifu@hoho.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   It's a good site to start a whole new project. It contains a thoroughly full guide for you to understand the creating game project and make your first debut.
 
